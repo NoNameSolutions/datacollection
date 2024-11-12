@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         python3 -m pip install --upgrade pip
-        pip3 install -r /github-scraper/requirements.txt
+        pip3 install -r requirements.txt
         # If you don't have a requirements.txt, list packages directly:
         # pip install requests beautifulsoup4
         
