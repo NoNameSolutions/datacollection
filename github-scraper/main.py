@@ -238,8 +238,8 @@ if __name__ == "__main__":
         service = GitHubCommitService(token)
         
         # Example repository (replace with your repository details)
-        owner = ""
-        repo = ""
+        owner = "lura00"
+        repo = "python-databases-with-sqlite"
         
         # Optional date range for commits
         since_date = None  # e.g., "2024-01-01T00:00:00Z"

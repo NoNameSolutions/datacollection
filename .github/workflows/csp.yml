@@ -1,0 +1,49 @@
+name: Run Python Script on Schedule
+
+on:
+  schedule:
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
+  # Optional: Allow manual trigger of the workflow
+  workflow_dispatch:
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        cache: 'pip'
+        
+    - name: Install dependencies
+      run: |
+        python3 -m pip install --upgrade pip
+        pip3 install -r /github-scraper/requirements.txt
+        # If you don't have a requirements.txt, list packages directly:
+        # pip install requests beautifulsoup4
+        
+    - name: Run script
+      env:
+        # Add any environment variables your script needs
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python3 github-scraper/main.py
+        
+    # Optional: Add error notification
+    - name: Send notification on failure
+      if: failure()
+      uses: actions/github-script@v6
+      with:
+        script: |
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: 'Workflow failed',
+            body: 'The scheduled Python script failed to run. Please check the workflow logs.'
+          })
