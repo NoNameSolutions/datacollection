@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+*.wheel
+
+# Virtual environment
+*.venv
+*.virtualenv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pyre type checker
+.pyre/
+
+# Pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Unit test / coverage reports
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.tox/
+.nox/
+
+# pylint
+.pylint.d/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+.history/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# MacOS
+.DS_Store
+
+# Backup files
+*.bak
+*~
+
+# Environment variables
+.env
+.env.*
+
+# Local configuration files
+*.ini
+*.cfg
+*.local
+
+# Logs
+*.log
+*.out
+*.err
+
+# Profile data
+.prof
+*.prof
+
+# Docker
+docker-compose.override.yml
