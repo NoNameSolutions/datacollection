@@ -92,5 +92,6 @@ dmypy.json
 # Docker
 docker-compose.override.yml
 
-# Csv
-prometheus-community_helm-charts_commits_20241113_000617.csv
+# data files
+*.csv
+*.json
