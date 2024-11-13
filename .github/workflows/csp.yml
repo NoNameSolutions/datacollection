@@ -1,9 +1,9 @@
 name: Run Python Script on Schedule
 
 on:
-  schedule:
-    # Runs every 10 minutes
-    - cron: '*/10 * * * *'
+  # schedule:
+  #   # Runs every 10 minutes
+  #   - cron: '*/10 * * * *'
   # Optional: Allow manual trigger of the workflow
   workflow_dispatch:
 
