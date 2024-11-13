@@ -1,0 +1,1332 @@
+[
+    {
+        "Module Name": "kube-prometheus-stack",
+        "Total Commits": 560,
+        "Total Bugs": 33,
+        "Total PRs": 560,
+        "Weekly Deployment Frequency": 2.1974522292993632,
+        "Change Failure Rate (%)": 50.43478260869565,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus",
+        "Total Commits": 183,
+        "Total Bugs": 10,
+        "Total PRs": 183,
+        "Weekly Deployment Frequency": 1.4,
+        "Change Failure Rate (%)": 42.10526315789473,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-memcached-exporter",
+        "Total Commits": 7,
+        "Total Bugs": 0,
+        "Total PRs": 7,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "kube-state-metrics",
+        "Total Commits": 118,
+        "Total Bugs": 7,
+        "Total PRs": 22,
+        "Weekly Deployment Frequency": 1.1333333333333333,
+        "Change Failure Rate (%)": 54.90196078431373,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-operator-admission-webhook",
+        "Total Commits": 18,
+        "Total Bugs": 0,
+        "Total PRs": 18,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-operator-crds",
+        "Total Commits": 24,
+        "Total Bugs": 0,
+        "Total PRs": 24,
+        "Weekly Deployment Frequency": 1.0526315789473684,
+        "Change Failure Rate (%)": 30.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-blackbox-exporter",
+        "Total Commits": 79,
+        "Total Bugs": 11,
+        "Total PRs": 79,
+        "Weekly Deployment Frequency": 1.2307692307692308,
+        "Change Failure Rate (%)": 81.25,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-mongodb-exporter",
+        "Total Commits": 16,
+        "Total Bugs": 2,
+        "Total PRs": 16,
+        "Weekly Deployment Frequency": 1.0909090909090908,
+        "Change Failure Rate (%)": 41.66666666666667,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-smartctl-exporter",
+        "Total Commits": 17,
+        "Total Bugs": 2,
+        "Total PRs": 17,
+        "Weekly Deployment Frequency": 1.1666666666666667,
+        "Change Failure Rate (%)": 42.857142857142854,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-node-exporter",
+        "Total Commits": 98,
+        "Total Bugs": 10,
+        "Total PRs": 98,
+        "Weekly Deployment Frequency": 1.3461538461538463,
+        "Change Failure Rate (%)": 47.14285714285714,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-sql-exporter",
+        "Total Commits": 4,
+        "Total Bugs": 0,
+        "Total PRs": 4,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 25.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-ipmi-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 0,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 20.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-postgres-exporter",
+        "Total Commits": 56,
+        "Total Bugs": 7,
+        "Total PRs": 56,
+        "Weekly Deployment Frequency": 1.1875,
+        "Change Failure Rate (%)": 42.10526315789473,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-statsd-exporter",
+        "Total Commits": 18,
+        "Total Bugs": 0,
+        "Total PRs": 18,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 35.714285714285715,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-pgbouncer-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 1,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 20.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-windows-exporter",
+        "Total Commits": 10,
+        "Total Bugs": 0,
+        "Total PRs": 10,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 16.666666666666664,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "alertmanager-snmp-notifier",
+        "Total Commits": 5,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 66.66666666666666,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-snmp-exporter",
+        "Total Commits": 31,
+        "Total Bugs": 4,
+        "Total PRs": 31,
+        "Weekly Deployment Frequency": 1.375,
+        "Change Failure Rate (%)": 40.909090909090914,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-stackdriver-exporter",
+        "Total Commits": 21,
+        "Total Bugs": 7,
+        "Total PRs": 21,
+        "Weekly Deployment Frequency": 1.2307692307692308,
+        "Change Failure Rate (%)": 56.25,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-conntrack-stats-exporter",
+        "Total Commits": 4,
+        "Total Bugs": 0,
+        "Total PRs": 4,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 66.66666666666666,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-fastly-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 1,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 66.66666666666666,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-pushgateway",
+        "Total Commits": 53,
+        "Total Bugs": 3,
+        "Total PRs": 53,
+        "Weekly Deployment Frequency": 1.15625,
+        "Change Failure Rate (%)": 45.94594594594595,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-elasticsearch-exporter",
+        "Total Commits": 35,
+        "Total Bugs": 2,
+        "Total PRs": 35,
+        "Weekly Deployment Frequency": 1.0434782608695652,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "alertmanager",
+        "Total Commits": 55,
+        "Total Bugs": 2,
+        "Total PRs": 14,
+        "Weekly Deployment Frequency": 1.1923076923076923,
+        "Change Failure Rate (%)": 58.06451612903226,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-nginx-exporter",
+        "Total Commits": 5,
+        "Total Bugs": 0,
+        "Total PRs": 5,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-kafka-exporter",
+        "Total Commits": 28,
+        "Total Bugs": 1,
+        "Total PRs": 28,
+        "Weekly Deployment Frequency": 1.1578947368421053,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prom-label-proxy",
+        "Total Commits": 9,
+        "Total Bugs": 0,
+        "Total PRs": 9,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-adapter",
+        "Total Commits": 54,
+        "Total Bugs": 6,
+        "Total PRs": 54,
+        "Weekly Deployment Frequency": 1.125,
+        "Change Failure Rate (%)": 59.25925925925925,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-redis-exporter",
+        "Total Commits": 25,
+        "Total Bugs": 4,
+        "Total PRs": 25,
+        "Weekly Deployment Frequency": 1.2,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-mysql-exporter",
+        "Total Commits": 28,
+        "Total Bugs": 2,
+        "Total PRs": 28,
+        "Weekly Deployment Frequency": 1.1176470588235294,
+        "Change Failure Rate (%)": 52.63157894736842,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-rabbitmq-exporter",
+        "Total Commits": 18,
+        "Total Bugs": 1,
+        "Total PRs": 18,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 55.55555555555556,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-systemd-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 0,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 133.33333333333331,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-json-exporter",
+        "Total Commits": 26,
+        "Total Bugs": 3,
+        "Total PRs": 26,
+        "Weekly Deployment Frequency": 1.1818181818181819,
+        "Change Failure Rate (%)": 92.3076923076923,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "CI",
+        "Total Commits": 7,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "kube-prometheus-stack ",
+        "Total Commits": 4,
+        "Total Bugs": 0,
+        "Total PRs": 4,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "helm/kind-action",
+        "Total Commits": 6,
+        "Total Bugs": 0,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-modbus-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.5,
+        "Change Failure Rate (%)": 33.33333333333333,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "kube-promettheus-stack",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "bot",
+        "Total Commits": 27,
+        "Total Bugs": 2,
+        "Total PRs": 22,
+        "Weekly Deployment Frequency": 1.35,
+        "Change Failure Rate (%)": 14.814814814814813,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-nats-exporter",
+        "Total Commits": 7,
+        "Total Bugs": 0,
+        "Total PRs": 7,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 80.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "proemtheus-mysql-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-opencost-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "jiralert",
+        "Total Commits": 15,
+        "Total Bugs": 1,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 133.33333333333331,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "blackbox",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "helm/chart-releaser-action",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 33.33333333333333,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "conntrack stats exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "actions/checkout",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.5,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "docker/login-action",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-cloudwatch-exporter",
+        "Total Commits": 23,
+        "Total Bugs": 1,
+        "Total PRs": 23,
+        "Weekly Deployment Frequency": 1.125,
+        "Change Failure Rate (%)": 11.11111111111111,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "promethues-node-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Alertmanager",
+        "Total Commits": 55,
+        "Total Bugs": 2,
+        "Total PRs": 14,
+        "Weekly Deployment Frequency": 1.1923076923076923,
+        "Change Failure Rate (%)": 58.06451612903226,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-operator",
+        "Total Commits": 8,
+        "Total Bugs": 2,
+        "Total PRs": 8,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 60.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "CHORE",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-pingdom-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "README.md",
+        "Total Commits": 1,
+        "Total Bugs": 1,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-pingmesh-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 66.66666666666666,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-alertmanager",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "promtheus",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-couchdb-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 1,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "helm/chart-testing-action",
+        "Total Commits": 5,
+        "Total Bugs": 2,
+        "Total PRs": 5,
+        "Weekly Deployment Frequency": 1.25,
+        "Change Failure Rate (%)": 60.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-kube-stack",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-consul-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 3,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "postgres-exporter",
+        "Total Commits": 4,
+        "Total Bugs": 1,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.5,
+        "Change Failure Rate (%)": 66.66666666666666,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-druid-exporter",
+        "Total Commits": 5,
+        "Total Bugs": 0,
+        "Total PRs": 5,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 60.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-crds",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "azure/setup-helm",
+        "Total Commits": 3,
+        "Total Bugs": 0,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-postgre-exporter",
+        "Total Commits": 2,
+        "Total Bugs": 1,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 2.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-to-sd",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "ALL CHARTS",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometehus-redis-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "actions/setup-python",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-stackdriver",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "kube-prometheus-stack-operator",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "kube-stat-metrics",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "AlertManager",
+        "Total Commits": 55,
+        "Total Bugs": 2,
+        "Total PRs": 14,
+        "Weekly Deployment Frequency": 1.1923076923076923,
+        "Change Failure Rate (%)": 58.06451612903226,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "promethus-node-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "1",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Fix external metrics provider not respecting metrics-max-age",
+        "Total Commits": 1,
+        "Total Bugs": 1,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stackdriver-exporter",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Kube-prometheus-stack",
+        "Total Commits": 560,
+        "Total Bugs": 33,
+        "Total PRs": 560,
+        "Weekly Deployment Frequency": 2.1974522292993632,
+        "Change Failure Rate (%)": 50.43478260869565,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "postgresql",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "codespell",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable",
+        "Total Commits": 1,
+        "Total Bugs": 1,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "fix",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 200.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": ".github meta resource",
+        "Total Commits": 1,
+        "Total Bugs": 1,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/kube-state-metrics",
+        "Total Commits": 66,
+        "Total Bugs": 2,
+        "Total PRs": 7,
+        "Weekly Deployment Frequency": 1.15625,
+        "Change Failure Rate (%)": 29.72972972972973,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "alertmanager ",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "blackbox-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/stackdriver-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 0,
+        "Total PRs": 4,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus",
+        "Total Commits": 139,
+        "Total Bugs": 9,
+        "Total PRs": 139,
+        "Weekly Deployment Frequency": 1.5,
+        "Change Failure Rate (%)": 44.086021505376344,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/elasticsearch-exporter",
+        "Total Commits": 25,
+        "Total Bugs": 0,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 77.77777777777779,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-operator",
+        "Total Commits": 202,
+        "Total Bugs": 15,
+        "Total PRs": 202,
+        "Weekly Deployment Frequency": 2.1515151515151514,
+        "Change Failure Rate (%)": 56.33802816901409,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-blackbox-exporter",
+        "Total Commits": 20,
+        "Total Bugs": 2,
+        "Total PRs": 20,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 57.14285714285714,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-mongodb-exporter",
+        "Total Commits": 8,
+        "Total Bugs": 0,
+        "Total PRs": 8,
+        "Weekly Deployment Frequency": 1.3333333333333333,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-mysql-exporter",
+        "Total Commits": 8,
+        "Total Bugs": 0,
+        "Total PRs": 8,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-redis-exporter",
+        "Total Commits": 13,
+        "Total Bugs": 1,
+        "Total PRs": 13,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 55.55555555555556,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-consul-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 1,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-adapter",
+        "Total Commits": 19,
+        "Total Bugs": 3,
+        "Total PRs": 19,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 66.66666666666666,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-node-exporter",
+        "Total Commits": 17,
+        "Total Bugs": 0,
+        "Total PRs": 17,
+        "Weekly Deployment Frequency": 1.1111111111111112,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-pushgateway",
+        "Total Commits": 19,
+        "Total Bugs": 3,
+        "Total PRs": 19,
+        "Weekly Deployment Frequency": 1.2727272727272727,
+        "Change Failure Rate (%)": 42.857142857142854,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-cloudwatch-exporter",
+        "Total Commits": 12,
+        "Total Bugs": 2,
+        "Total PRs": 12,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 55.55555555555556,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/grafana",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "0",
+        "Total Commits": 1,
+        "Total Bugs": 1,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-nats-exporter",
+        "Total Commits": 4,
+        "Total Bugs": 0,
+        "Total PRs": 4,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-postgres-exporter",
+        "Total Commits": 13,
+        "Total Bugs": 0,
+        "Total PRs": 13,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "#21968",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Prometheus Operator",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-snmp-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 1,
+        "Total PRs": 3,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 200.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus/stable",
+        "Total Commits": 2,
+        "Total Bugs": 1,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-operator ",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "promethesus-adapter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometehus",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-rabbitmq-exporter",
+        "Total Commits": 6,
+        "Total Bugs": 1,
+        "Total PRs": 6,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 80.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/promethues-redis-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "mysqld-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-to-sd",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 2,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/promethus-mongodb-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/blackbox-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometehus-blackbox-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/chart",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/chart/prometheus-operator",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Workload\nIdentity\nfeature",
+        "Total Commits": 1,
+        "Total Bugs": 1,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/elastic-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "elasticsearch-exporter",
+        "Total Commits": 3,
+        "Total Bugs": 1,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stabled/elasticsearch-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 0.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/kube-state-metrics ",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 0,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/prometheus-mysql-importer",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "prometheus-rabbitmq-export",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "ci skip",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "FEATURE",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 0.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Node-exporter",
+        "Total Commits": 2,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 50.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "stable/promehteus-node-exporter",
+        "Total Commits": 1,
+        "Total Bugs": 0,
+        "Total PRs": 1,
+        "Weekly Deployment Frequency": 1.0,
+        "Change Failure Rate (%)": 100.0,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    },
+    {
+        "Module Name": "Prometheus",
+        "Total Commits": 183,
+        "Total Bugs": 10,
+        "Total PRs": 183,
+        "Weekly Deployment Frequency": 1.4,
+        "Change Failure Rate (%)": 42.10526315789473,
+        "Mean Time to Recovery (Hours)": 0.0,
+        "Lead Time for Changes (Hours)": 0.0
+    }
+]
