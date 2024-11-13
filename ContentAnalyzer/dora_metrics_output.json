@@ -5,7 +5,7 @@
         "Total Bugs": 33,
         "Total PRs": 560,
         "Weekly Deployment Frequency": 2.1974522292993632,
-        "Change Failure Rate (%)": 50.43478260869565,
+        "Change Failure Rate (%)": 8.695652173913043,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -15,7 +15,7 @@
         "Total Bugs": 10,
         "Total PRs": 183,
         "Weekly Deployment Frequency": 1.4,
-        "Change Failure Rate (%)": 42.10526315789473,
+        "Change Failure Rate (%)": 9.022556390977442,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -25,7 +25,7 @@
         "Total Bugs": 0,
         "Total PRs": 7,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -35,7 +35,7 @@
         "Total Bugs": 7,
         "Total PRs": 22,
         "Weekly Deployment Frequency": 1.1333333333333333,
-        "Change Failure Rate (%)": 54.90196078431373,
+        "Change Failure Rate (%)": 13.725490196078432,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -55,7 +55,7 @@
         "Total Bugs": 0,
         "Total PRs": 24,
         "Weekly Deployment Frequency": 1.0526315789473684,
-        "Change Failure Rate (%)": 30.0,
+        "Change Failure Rate (%)": 10.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -65,7 +65,7 @@
         "Total Bugs": 11,
         "Total PRs": 79,
         "Weekly Deployment Frequency": 1.2307692307692308,
-        "Change Failure Rate (%)": 81.25,
+        "Change Failure Rate (%)": 18.75,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -75,7 +75,7 @@
         "Total Bugs": 2,
         "Total PRs": 16,
         "Weekly Deployment Frequency": 1.0909090909090908,
-        "Change Failure Rate (%)": 41.66666666666667,
+        "Change Failure Rate (%)": 25.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -85,7 +85,7 @@
         "Total Bugs": 2,
         "Total PRs": 17,
         "Weekly Deployment Frequency": 1.1666666666666667,
-        "Change Failure Rate (%)": 42.857142857142854,
+        "Change Failure Rate (%)": 28.57142857142857,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -95,7 +95,7 @@
         "Total Bugs": 10,
         "Total PRs": 98,
         "Weekly Deployment Frequency": 1.3461538461538463,
-        "Change Failure Rate (%)": 47.14285714285714,
+        "Change Failure Rate (%)": 18.571428571428573,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -105,7 +105,7 @@
         "Total Bugs": 0,
         "Total PRs": 4,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 25.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -115,7 +115,7 @@
         "Total Bugs": 0,
         "Total PRs": 6,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 20.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -125,7 +125,7 @@
         "Total Bugs": 7,
         "Total PRs": 56,
         "Weekly Deployment Frequency": 1.1875,
-        "Change Failure Rate (%)": 42.10526315789473,
+        "Change Failure Rate (%)": 10.526315789473683,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -135,7 +135,7 @@
         "Total Bugs": 0,
         "Total PRs": 18,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 35.714285714285715,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -155,7 +155,7 @@
         "Total Bugs": 0,
         "Total PRs": 10,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 16.666666666666664,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -165,7 +165,7 @@
         "Total Bugs": 0,
         "Total PRs": 0,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 66.66666666666666,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -175,7 +175,7 @@
         "Total Bugs": 4,
         "Total PRs": 31,
         "Weekly Deployment Frequency": 1.375,
-        "Change Failure Rate (%)": 40.909090909090914,
+        "Change Failure Rate (%)": 13.636363636363635,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -185,7 +185,7 @@
         "Total Bugs": 7,
         "Total PRs": 21,
         "Weekly Deployment Frequency": 1.2307692307692308,
-        "Change Failure Rate (%)": 56.25,
+        "Change Failure Rate (%)": 18.75,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -195,7 +195,7 @@
         "Total Bugs": 0,
         "Total PRs": 4,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 66.66666666666666,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -205,7 +205,7 @@
         "Total Bugs": 1,
         "Total PRs": 6,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 66.66666666666666,
+        "Change Failure Rate (%)": 33.33333333333333,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -215,7 +215,7 @@
         "Total Bugs": 3,
         "Total PRs": 53,
         "Weekly Deployment Frequency": 1.15625,
-        "Change Failure Rate (%)": 45.94594594594595,
+        "Change Failure Rate (%)": 10.81081081081081,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -225,7 +225,7 @@
         "Total Bugs": 2,
         "Total PRs": 35,
         "Weekly Deployment Frequency": 1.0434782608695652,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 8.333333333333332,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -235,7 +235,7 @@
         "Total Bugs": 2,
         "Total PRs": 14,
         "Weekly Deployment Frequency": 1.1923076923076923,
-        "Change Failure Rate (%)": 58.06451612903226,
+        "Change Failure Rate (%)": 6.451612903225806,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -245,7 +245,7 @@
         "Total Bugs": 0,
         "Total PRs": 5,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -255,7 +255,7 @@
         "Total Bugs": 1,
         "Total PRs": 28,
         "Weekly Deployment Frequency": 1.1578947368421053,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 4.545454545454546,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -275,7 +275,7 @@
         "Total Bugs": 6,
         "Total PRs": 54,
         "Weekly Deployment Frequency": 1.125,
-        "Change Failure Rate (%)": 59.25925925925925,
+        "Change Failure Rate (%)": 14.814814814814813,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -285,7 +285,7 @@
         "Total Bugs": 4,
         "Total PRs": 25,
         "Weekly Deployment Frequency": 1.2,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 27.77777777777778,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -295,7 +295,7 @@
         "Total Bugs": 2,
         "Total PRs": 28,
         "Weekly Deployment Frequency": 1.1176470588235294,
-        "Change Failure Rate (%)": 52.63157894736842,
+        "Change Failure Rate (%)": 10.526315789473683,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -305,7 +305,7 @@
         "Total Bugs": 1,
         "Total PRs": 18,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 55.55555555555556,
+        "Change Failure Rate (%)": 11.11111111111111,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -315,7 +315,7 @@
         "Total Bugs": 0,
         "Total PRs": 6,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 133.33333333333331,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -325,7 +325,7 @@
         "Total Bugs": 3,
         "Total PRs": 26,
         "Weekly Deployment Frequency": 1.1818181818181819,
-        "Change Failure Rate (%)": 92.3076923076923,
+        "Change Failure Rate (%)": 23.076923076923077,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -335,7 +335,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -345,7 +345,7 @@
         "Total Bugs": 0,
         "Total PRs": 4,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -365,7 +365,7 @@
         "Total Bugs": 0,
         "Total PRs": 3,
         "Weekly Deployment Frequency": 1.5,
-        "Change Failure Rate (%)": 33.33333333333333,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -395,7 +395,7 @@
         "Total Bugs": 0,
         "Total PRs": 7,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 80.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -415,7 +415,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -425,7 +425,7 @@
         "Total Bugs": 1,
         "Total PRs": 3,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 133.33333333333331,
+        "Change Failure Rate (%)": 33.33333333333333,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -485,7 +485,7 @@
         "Total Bugs": 1,
         "Total PRs": 23,
         "Weekly Deployment Frequency": 1.125,
-        "Change Failure Rate (%)": 11.11111111111111,
+        "Change Failure Rate (%)": 5.555555555555555,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -505,7 +505,7 @@
         "Total Bugs": 2,
         "Total PRs": 14,
         "Weekly Deployment Frequency": 1.1923076923076923,
-        "Change Failure Rate (%)": 58.06451612903226,
+        "Change Failure Rate (%)": 6.451612903225806,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -515,7 +515,7 @@
         "Total Bugs": 2,
         "Total PRs": 8,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 60.0,
+        "Change Failure Rate (%)": 20.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -555,7 +555,7 @@
         "Total Bugs": 0,
         "Total PRs": 3,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 66.66666666666666,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -585,7 +585,7 @@
         "Total Bugs": 1,
         "Total PRs": 3,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -605,7 +605,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -615,7 +615,7 @@
         "Total Bugs": 3,
         "Total PRs": 6,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 25.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -635,7 +635,7 @@
         "Total Bugs": 0,
         "Total PRs": 5,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 60.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -665,7 +665,7 @@
         "Total Bugs": 1,
         "Total PRs": 2,
         "Weekly Deployment Frequency": 2.0,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -675,7 +675,7 @@
         "Total Bugs": 0,
         "Total PRs": 2,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -725,7 +725,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -745,7 +745,7 @@
         "Total Bugs": 2,
         "Total PRs": 14,
         "Weekly Deployment Frequency": 1.1923076923076923,
-        "Change Failure Rate (%)": 58.06451612903226,
+        "Change Failure Rate (%)": 6.451612903225806,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -785,7 +785,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -795,7 +795,7 @@
         "Total Bugs": 33,
         "Total PRs": 560,
         "Weekly Deployment Frequency": 2.1974522292993632,
-        "Change Failure Rate (%)": 50.43478260869565,
+        "Change Failure Rate (%)": 8.695652173913043,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -835,7 +835,7 @@
         "Total Bugs": 0,
         "Total PRs": 2,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 200.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -855,7 +855,7 @@
         "Total Bugs": 2,
         "Total PRs": 7,
         "Weekly Deployment Frequency": 1.15625,
-        "Change Failure Rate (%)": 29.72972972972973,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -885,7 +885,7 @@
         "Total Bugs": 0,
         "Total PRs": 4,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -895,7 +895,7 @@
         "Total Bugs": 9,
         "Total PRs": 139,
         "Weekly Deployment Frequency": 1.5,
-        "Change Failure Rate (%)": 44.086021505376344,
+        "Change Failure Rate (%)": 3.225806451612903,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -905,7 +905,7 @@
         "Total Bugs": 0,
         "Total PRs": 6,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 77.77777777777779,
+        "Change Failure Rate (%)": 11.11111111111111,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -915,7 +915,7 @@
         "Total Bugs": 15,
         "Total PRs": 202,
         "Weekly Deployment Frequency": 2.1515151515151514,
-        "Change Failure Rate (%)": 56.33802816901409,
+        "Change Failure Rate (%)": 9.15492957746479,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -925,7 +925,7 @@
         "Total Bugs": 2,
         "Total PRs": 20,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 57.14285714285714,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -935,7 +935,7 @@
         "Total Bugs": 0,
         "Total PRs": 8,
         "Weekly Deployment Frequency": 1.3333333333333333,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 25.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -945,7 +945,7 @@
         "Total Bugs": 0,
         "Total PRs": 8,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -955,7 +955,7 @@
         "Total Bugs": 1,
         "Total PRs": 13,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 55.55555555555556,
+        "Change Failure Rate (%)": 11.11111111111111,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -965,7 +965,7 @@
         "Total Bugs": 1,
         "Total PRs": 3,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 33.33333333333333,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -975,7 +975,7 @@
         "Total Bugs": 3,
         "Total PRs": 19,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 66.66666666666666,
+        "Change Failure Rate (%)": 11.11111111111111,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -985,7 +985,7 @@
         "Total Bugs": 0,
         "Total PRs": 17,
         "Weekly Deployment Frequency": 1.1111111111111112,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 10.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -995,7 +995,7 @@
         "Total Bugs": 3,
         "Total PRs": 19,
         "Weekly Deployment Frequency": 1.2727272727272727,
-        "Change Failure Rate (%)": 42.857142857142854,
+        "Change Failure Rate (%)": 7.142857142857142,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1005,7 +1005,7 @@
         "Total Bugs": 2,
         "Total PRs": 12,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 55.55555555555556,
+        "Change Failure Rate (%)": 11.11111111111111,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1045,7 +1045,7 @@
         "Total Bugs": 0,
         "Total PRs": 13,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 10.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1075,7 +1075,7 @@
         "Total Bugs": 1,
         "Total PRs": 3,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 200.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1085,7 +1085,7 @@
         "Total Bugs": 1,
         "Total PRs": 2,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 50.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1095,7 +1095,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1125,7 +1125,7 @@
         "Total Bugs": 1,
         "Total PRs": 6,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 80.0,
+        "Change Failure Rate (%)": 40.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1155,7 +1155,7 @@
         "Total Bugs": 0,
         "Total PRs": 2,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1205,7 +1205,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1255,7 +1255,7 @@
         "Total Bugs": 0,
         "Total PRs": 0,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1285,7 +1285,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1315,7 +1315,7 @@
         "Total Bugs": 0,
         "Total PRs": 1,
         "Weekly Deployment Frequency": 1.0,
-        "Change Failure Rate (%)": 100.0,
+        "Change Failure Rate (%)": 0.0,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     },
@@ -1325,7 +1325,7 @@
         "Total Bugs": 10,
         "Total PRs": 183,
         "Weekly Deployment Frequency": 1.4,
-        "Change Failure Rate (%)": 42.10526315789473,
+        "Change Failure Rate (%)": 9.022556390977442,
         "Mean Time to Recovery (Hours)": 0.0,
         "Lead Time for Changes (Hours)": 0.0
     }

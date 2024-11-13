@@ -22,7 +22,7 @@ def calculate_dora_metrics(df, module_name):
 
     # Identify deployment and failure-related commits
     deployment_keywords = ['deploy', 'release', 'bump', 'update', 'version']
-    failure_keywords = ['fix', 'rollback', 'hotfix', 'revert', 'patch']
+    failure_keywords = ['bug','rollback', 'hotfix', 'revert', 'patch']
     bug_keywords = ['bug', 'error', 'issue']
 
     module_commits['is_deployment'] = module_commits['message'].str.contains('|'.join(deployment_keywords), case=False, na=False)
